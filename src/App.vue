@@ -21,4 +21,5 @@ import { RouterView } from 'vue-router';
   max-width: 1100px;
   margin: 0 auto;
 }
+
 </style>
